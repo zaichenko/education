@@ -7,7 +7,6 @@ fgdghfghfghf
 --change by Andrey--
 12345
 dghdsdsdgjsgsg
-<<<<<<< HEAD
 faeefafjlnafjnajfnakjfhaukhfeaaaaaafu
 -----
 ----
@@ -15,5 +14,3 @@ faeefafjlnafjnajfnakjfhaukhfeaaaaaafu
 --
 -
 улица фонарь аптека
-=======
->>>>>>> parent of 5f08103 (etete)
