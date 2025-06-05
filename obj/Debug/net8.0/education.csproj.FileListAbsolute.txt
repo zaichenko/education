@@ -13,3 +13,18 @@
 /home/test/project/education/obj/Debug/net8.0/education.pdb
 /home/test/project/education/obj/Debug/net8.0/education.genruntimeconfig.cache
 /home/test/project/education/obj/Debug/net8.0/ref/education.dll
+C:\Users\aleks\OneDrive\Рабочий стол\sdfsgsg\education\obj\Debug\net8.0\education.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\OneDrive\Рабочий стол\sdfsgsg\education\obj\Debug\net8.0\education.AssemblyInfoInputs.cache
+C:\Users\aleks\OneDrive\Рабочий стол\sdfsgsg\education\obj\Debug\net8.0\education.AssemblyInfo.cs
+C:\Users\aleks\OneDrive\Рабочий стол\sdfsgsg\education\obj\Debug\net8.0\education.csproj.CoreCompileInputs.cache
+C:\Users\aleks\OneDrive\Рабочий стол\sdfsgsg\education\obj\Debug\net8.0\education.sourcelink.json
+C:\Users\aleks\OneDrive\Рабочий стол\sdfsgsg\education\obj\Debug\net8.0\education.dll
+C:\Users\aleks\OneDrive\Рабочий стол\sdfsgsg\education\obj\Debug\net8.0\refint\education.dll
+C:\Users\aleks\OneDrive\Рабочий стол\sdfsgsg\education\obj\Debug\net8.0\education.pdb
+C:\Users\aleks\OneDrive\Рабочий стол\sdfsgsg\education\bin\Debug\net8.0\education.exe
+C:\Users\aleks\OneDrive\Рабочий стол\sdfsgsg\education\bin\Debug\net8.0\education.deps.json
+C:\Users\aleks\OneDrive\Рабочий стол\sdfsgsg\education\bin\Debug\net8.0\education.runtimeconfig.json
+C:\Users\aleks\OneDrive\Рабочий стол\sdfsgsg\education\bin\Debug\net8.0\education.dll
+C:\Users\aleks\OneDrive\Рабочий стол\sdfsgsg\education\bin\Debug\net8.0\education.pdb
+C:\Users\aleks\OneDrive\Рабочий стол\sdfsgsg\education\obj\Debug\net8.0\education.genruntimeconfig.cache
+C:\Users\aleks\OneDrive\Рабочий стол\sdfsgsg\education\obj\Debug\net8.0\ref\education.dll

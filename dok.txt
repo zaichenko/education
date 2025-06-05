@@ -1,2 +1,0 @@
-git branch - look all tree
-git checkout <name tree> - change choose tree

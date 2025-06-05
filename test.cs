@@ -1,39 +1,7 @@
-/*<<<<<<< HEAD
-werrasdwereDFcvbvcsd
-asdDFcvbvcfhfghsd
-sadfsadfsaxVsDvsd
-sadfsadfter t
-dfgdsfgadergertgerапрвапр
-вкерваер
 
-fgdghfghfghf
---change by Andrey--
-12345
-dghdsdsdgjsgsg
-faeefafjlnafjnajfnakjfhaukhfeaaaaaafu
------
-----
----
---
--
-улица фонарь аптека
-андрей вспомнил парольшекщ4ш
-почему нет конфликта?????
-потому что я бэтмен
-ты дурила
-дурила - твое второе имя <3
-это в горах тебя научили так махаться? жесть
-это что получается, у тебя по субботам оффлайная жизнь, а на будних онлайн
-kak dela-_-
-poshla von dura
-abracadabra
-=======
-restart project...
-please, ne zasoryaite file!
->>>>>>> a84b17b5a9733e8d062b206f00aeb8e25a71bcf0
-*/
 
 using System;
+using static System.Runtime.InteropServices.JavaScript.JSType;
 
 				
 public class Program	
@@ -63,16 +31,20 @@ public class Program
 			Console.WriteLine ("Test3 - error");
 		}
 	}
-	static int g;
 	
 	public static void Main()
 	{
-		Fox forestfox = new Fox();
-		forestfox.Eat();
-		Test1(forestfox);
-		Test2(forestfox);
-		Test3(forestfox);
-		Console.WriteLine();
+		Loop loop = new Loop();
+		loop.Testloop();
+
+        
+        
+
+        
+		
+		
+        Console.WriteLine();
+		Console.ReadLine();
 		//forestfox.Output(t);
 	}
 }
@@ -80,22 +52,21 @@ public class Program
 public class Fox
 {
 	public string Run(int distance)
-{
-	switch (distance)
 	{
-		case <= 0:
-		return "fox do not running";
-		break;
-		case <= 10:
-		return "fox running " + distance + " km";
-		break;
-		default:
-		return "fox do not running"; 
-		break;
-	
+		if (distance <=0)
+		{
+			return "fox do not running";
+		}
+		else if (distance <=10)
+		{
+			return "fox running " + distance + " km";
+		}
+		else
+		{
+			return "fox do not running";
+		}
+		return "";
 	}
-	return "";
-}
 public void Eat()
 {
 Console.WriteLine("fox eating");
@@ -105,4 +76,40 @@ public void Output (string red)
 Console.WriteLine (red);
 	}
 
+}
+public class Loop
+{
+	public void Testloop()
+	{
+        /*(for (int i = 10; i >= 1; i--)
+		{
+			Console.WriteLine(i);
+		}
+		int j = 10;
+		do
+		{
+			Console.WriteLine(j);
+			j--;
+		}
+		while (j >= 1); 
+
+		int y = 10;
+		while (y >= 1)
+			{
+			Console.WriteLine(y);
+				y--; 
+			} */
+        int[] nums10 = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
+        Array.Reverse (nums10);
+        foreach (int c in nums10)
+		{ 
+			Console.WriteLine(c); 
+		}
+        Array.Reverse (nums10);
+        for (int i = 9; i >= 0; i--)
+        {
+            Console.WriteLine(nums10[i]);
+        }
+		
+    }
 }

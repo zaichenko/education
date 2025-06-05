@@ -1,25 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "/home/test/project/education/education.csproj": {}
+    "C:\\Users\\aleks\\OneDrive\\Рабочий стол\\sdfsgsg\\education\\education.csproj": {}
   },
   "projects": {
-    "/home/test/project/education/education.csproj": {
+    "C:\\Users\\aleks\\OneDrive\\Рабочий стол\\sdfsgsg\\education\\education.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/test/project/education/education.csproj",
+        "projectUniqueName": "C:\\Users\\aleks\\OneDrive\\Рабочий стол\\sdfsgsg\\education\\education.csproj",
         "projectName": "education",
-        "projectPath": "/home/test/project/education/education.csproj",
-        "packagesPath": "/home/test/.nuget/packages/",
-        "outputPath": "/home/test/project/education/obj/",
+        "projectPath": "C:\\Users\\aleks\\OneDrive\\Рабочий стол\\sdfsgsg\\education\\education.csproj",
+        "packagesPath": "C:\\Users\\aleks\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aleks\\OneDrive\\Рабочий стол\\sdfsgsg\\education\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "E:\\vs sdk\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/home/test/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\aleks\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -37,7 +43,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -58,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/256/sdk/8.0.407/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
