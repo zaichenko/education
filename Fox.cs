@@ -33,6 +33,12 @@ namespace education
         {
             Console.WriteLine(red);
         }
-
+        public static string AddBinary(int a, int b)
+        {
+            int c = a + b;
+            string n = Convert.ToString(c, 2);
+            Console.WriteLine(n);
+            return n;
+        }
     }
 }

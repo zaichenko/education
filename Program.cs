@@ -2,6 +2,7 @@ using System;
 namespace education
 {
 
+
 	public class Program
 	{
 		public static void Test1(Fox forestfox)
@@ -31,13 +32,9 @@ namespace education
 		}
 		static int g;
 
-		public static void Obeo()
+		public static void Omeo()
 		{
-			Fox forestfox = new Fox();
-			forestfox.Eat();
-			Test1(forestfox);
-			Test2(forestfox);
-			Test3(forestfox);
+			Fox.AddBinary(-10, 20);
 			Console.WriteLine();
 			//forestfox.Output(t);
 		}
